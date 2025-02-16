@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm todwtzypdharrison726
 
-<!--
-**todwtzypdharrison726/todwtzypdharrison726** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚣 🥋 🎳 🎱 Exploring the world of algorithms 🚣 🥋 🎳 🎱
 
-Here are some ideas to get you started:
+## About Me
+🛶 🎳 🏑 Interested in project management 🛶 🎳 🏑
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🏏 🌈 🎨 🎮 Fascinated by computer vision 🏏 🌈 🎨 🎮
+
+### Fun Facts
+🏑 🛹 🎬 🛹 Excited about system programming 🏑 🛹 🎬 🛹
+
+---
+🎯 🎮 🚴 🏑 🏊 Thanks for visiting my profile! 🎣 🎱 🚴 🎪 🎹
